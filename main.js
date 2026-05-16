@@ -59,6 +59,7 @@
     });
   }
 
+
   // Scroll progress bar
   const progressBar = document.getElementById("scroll-progress");
   function updateProgress() {
