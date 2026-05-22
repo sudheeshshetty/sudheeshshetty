@@ -92,6 +92,14 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 
 ---
 
+### 💬 [Chat](https://github.com/sudheeshshetty/Chat) ⭐ 196
+
+> Real-time chat application built with Node.js, Express, MongoDB, Angular, and Socket.IO.
+
+`Node.js` `Express` `MongoDB` `Angular` `Socket.IO`
+
+---
+
 ### 🚌 [BusTracker](https://github.com/sudheeshshetty/Bustracker)
 
 > IoT hackathon project — real-time public transport tracking system.
@@ -105,14 +113,6 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 > Modified and implemented the **TEEN (Threshold-sensitive Energy Efficient sensor Network)** routing protocol for ad-hoc networks — adapted it onto a tree-based structure, simulated in NS2, and benchmarked against AODV, proving superior performance.
 
 `C++` `NS2` `Ad-hoc Networks` `Routing Protocols` `Network Simulation`
-
----
-
-### 💬 [Chat](https://github.com/sudheeshshetty/Chat) ⭐ 196
-
-> Real-time chat application built with Node.js, Express, MongoDB, Angular, and Socket.IO.
-
-`Node.js` `Express` `MongoDB` `Angular` `Socket.IO`
 
 ---
 
