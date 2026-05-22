@@ -14,13 +14,17 @@
 
 ## About
 
-I'm a Full-Stack Engineer with 11+ years of experience building scalable platforms, internal tools, and high-impact products — across frontend, backend, and infrastructure layers.
+**Full-Stack Engineer · 11+ years · Frontend, Backend & Infrastructure**
 
-What drives me most is end-to-end ownership: taking a problem from architecture through to production rather than working within a single isolated layer. At Walmart, that means shipping large-scale internal platforms — feed transformation systems, schema management, marketing tooling, and data workflows that quietly power how multiple teams operate. Before that, I built custom Terraform providers and serverless infrastructure frameworks at Diligent, and a full-stack chip-testing dashboard for AMD as a solo contractor.
+I care about **end-to-end ownership** — taking a problem from architecture through to production, not just owning one slice of it.
 
-Outside of work, I keep building. [WorkerHub](https://workerhubhq.com) is my current weekend project — a service marketplace I'm designing from scratch with NestJS, PostgreSQL, React Native, and AWS, handling everything from auth and booking workflows to mobile integration and infra planning.
+At **Walmart**, that looks like shipping large-scale internal platforms: feed transformation systems, schema management, marketing tooling, and data workflows that quietly power how multiple teams operate. Before that — **custom Terraform providers** and serverless infra frameworks at Diligent, a full-stack chip-testing dashboard for **AMD** built solo as a contractor.
 
-I'm also drawn to infrastructure beyond app development. I run a self-hosted NAS, a Raspberry Pi home automation setup, and regularly tinker with networking, containers, DNS routing, and automation — mostly because I find reliable system design genuinely interesting, not just professionally useful.
+> Outside of work, I keep building things.
+
+**[WorkerHub](https://workerhubhq.com)** is my current weekend project — a service marketplace designed from scratch: auth systems, booking workflows, mobile integration, and infra planning, all with `NestJS` · `PostgreSQL` · `React Native` · `AWS`.
+
+I'm also drawn to infrastructure for its own sake — I run a **self-hosted NAS**, a **Raspberry Pi home automation** setup, and regularly tinker with networking, containers, DNS, and automation. Reliable system design is something I find genuinely interesting, not just professionally useful.
 
 ---
 
