@@ -100,6 +100,14 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 
 ---
 
+### 📡 [TEEN Protocol for NS2](https://github.com/sudheeshshetty/teen-protocol-for-ns2)
+
+> Modified and implemented the **TEEN (Threshold-sensitive Energy Efficient sensor Network)** routing protocol for ad-hoc networks — adapted it onto a tree-based structure, simulated in NS2, and benchmarked against AODV, proving superior performance.
+
+`C++` `NS2` `Ad-hoc Networks` `Routing Protocols` `Network Simulation`
+
+---
+
 ### 💬 [Chat](https://github.com/sudheeshshetty/Chat) ⭐ 196
 
 > Real-time chat application built with Node.js, Express, MongoDB, Angular, and Socket.IO.
