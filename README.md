@@ -17,9 +17,9 @@
 
 I design and deliver scalable **full-stack and cloud-native systems** — from React dashboards and GraphQL BFFs to serverless orchestration and distributed data pipelines. 11+ years shipping production software at Walmart, Diligent, AMD, and more.
 
-- **AWS Certified** (active) — architecture and operations at scale
-- Open to **Senior / Staff Engineer** roles with broader architectural ownership
-- I write about what I learn on [Medium](https://medium.com/@sudheeshshetty)
+- 🏅 **AWS Certified** (active) — architecture and operations at scale
+- 🔍 Open to **Senior / Staff Engineer** roles with broader architectural ownership
+- ✍️ I write about what I learn on [Medium](https://medium.com/@sudheeshshetty)
 
 ---
 
@@ -45,6 +45,7 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -55,8 +56,11 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![SES](https://img.shields.io/badge/SES-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **IaC & DevOps**
@@ -65,12 +69,48 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 ![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 **Databases**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🔧 [WorkerHub](https://workerhubhq.com)
+
+> A **three-sided service marketplace** connecting customers, service providers, and field workers — built end-to-end as a solo/founding engineer.
+
+| Role | Who | What they do |
+|---|---|---|
+| Customer | End user | Books services, manages subscriptions, pays, raises disputes |
+| Worker | Field staff | Views schedule, completes visits, uploads proof |
+| Provider Admin | Business owner | Manages services, plans, workers, billing |
+
+**Architecture:** React Native (Expo) mobile app · NestJS REST API · PostgreSQL via Prisma · AWS ECS Fargate + RDS + S3 + SES · CDK for infra · pnpm monorepo
+
+`React Native` `Expo` `NestJS` `PostgreSQL` `Prisma` `AWS CDK` `ECS Fargate` `RDS` `S3` `TypeScript`
+
+---
+
+### 🚌 [BusTracker](https://github.com/sudheeshshetty/Bustracker)
+
+> IoT hackathon project — real-time public transport tracking system.
+
+`IoT` `JavaScript` `Node.js`
+
+---
+
+### 💬 [Chat](https://github.com/sudheeshshetty/Chat) ⭐ 196
+
+> Real-time chat application built with Node.js, Express, MongoDB, Angular, and Socket.IO.
+
+`Node.js` `Express` `MongoDB` `Angular` `Socket.IO`
 
 ---
 
@@ -99,9 +139,11 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheeshshetty&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://streak-stats.demolab.com/?user=sudheeshshetty&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheeshshetty&layout=compact&theme=dark&hide_border=true)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheeshshetty&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -109,13 +151,12 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 
 ## Highlights
 
-- **AWS Certified** — active certification in cloud architecture and operations
-- **3× Hackathon Winner** at Diligent Corporation (consecutive internal wins)
-- **[BusTracker](https://github.com/sudheeshshetty/Bustracker)** — IoT hackathon project for real-time bus tracking
-- **Home Automation** — Raspberry Pi system controlling smart switches, lighting, and sensors with a custom web dashboard
-- **Home Lab / NAS** — Self-hosted TrueNAS for centralised backups and infrastructure experimentation
-- **Technical Writing** on [Medium](https://medium.com/@sudheeshshetty)
-- **Multiple performance awards** at Persistent Systems
+- 🏅 **AWS Certified** — active certification in cloud architecture and operations
+- 🥇 **3× Hackathon Winner** at Diligent Corporation (consecutive internal wins)
+- 🏆 **Multiple performance awards** at Persistent Systems for consistent delivery impact
+- 🏠 **Home Automation** — Raspberry Pi system controlling smart switches, lighting, and sensors with a custom web dashboard
+- 🖥️ **Home Lab / NAS** — Self-hosted TrueNAS for centralised backups and infrastructure experimentation
+- ✍️ **Technical Writing** on [Medium](https://medium.com/@sudheeshshetty)
 
 ---
 
