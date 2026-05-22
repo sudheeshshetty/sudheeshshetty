@@ -86,12 +86,6 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 
 > A **three-sided service marketplace** connecting customers, service providers, and field workers — built end-to-end as a solo/founding engineer.
 
-| Role | Who | What they do |
-|---|---|---|
-| Customer | End user | Books services, manages subscriptions, pays, raises disputes |
-| Worker | Field staff | Views schedule, completes visits, uploads proof |
-| Provider Admin | Business owner | Manages services, plans, workers, billing |
-
 **Architecture:** React Native (Expo) mobile app · NestJS REST API · PostgreSQL via Prisma · AWS ECS Fargate + RDS + S3 + SES · CDK for infra · pnpm monorepo
 
 `React Native` `Expo` `NestJS` `PostgreSQL` `Prisma` `AWS CDK` `ECS Fargate` `RDS` `S3` `TypeScript`
@@ -132,20 +126,6 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 **Diligent Corporation** — Authored custom Terraform providers in Go (HashiCorp SDK); designed an internal infrastructure SDK on AWS CDK; built serverless orchestration workflows for remote provisioning; won **3 consecutive internal hackathons**.
 
 **AMD (via Mirafra)** — Solo contractor; built a full-stack chip test infrastructure dashboard — React + Redux Toolkit frontend, Spring Boot REST APIs on MySQL — from scratch to production.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=sudheeshshetty&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheeshshetty&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
 
 ---
 
