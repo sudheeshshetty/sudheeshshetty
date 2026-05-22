@@ -14,17 +14,15 @@
 
 ## About
 
-**Full-Stack Engineer · 11+ years · Frontend, Backend & Infrastructure**
+I'm someone who gets genuinely excited about **how things work** — not just making them work.
 
-I care about **end-to-end ownership** — taking a problem from architecture through to production, not just owning one slice of it.
+I like owning problems end-to-end. Give me a hard problem and I'll think about the data model, the API design, the infra, and the UI — not just the part assigned to me. That's just how my brain works.
 
-At **Walmart**, that looks like shipping large-scale internal platforms: feed transformation systems, schema management, marketing tooling, and data workflows that quietly power how multiple teams operate. Before that — **custom Terraform providers** and serverless infra frameworks at Diligent, a full-stack chip-testing dashboard for **AMD** built solo as a contractor.
+When I'm not writing code for work, I'm usually writing code for fun. Right now that's **[WorkerHub](https://workerhubhq.com)** — a service marketplace I'm building from scratch on weekends, figuring out everything from booking flows to mobile UX to AWS infra as I go.
 
-> Outside of work, I keep building things.
+I also run a **self-hosted NAS** at home, have a **Raspberry Pi** wired up to control lights, switches, and sensors across the house, and regularly fall into rabbit holes around networking, DNS, containers, and automation. Not because it's useful — because it's interesting.
 
-**[WorkerHub](https://workerhubhq.com)** is my current weekend project — a service marketplace designed from scratch: auth systems, booking workflows, mobile integration, and infra planning, all with `NestJS` · `PostgreSQL` · `React Native` · `AWS`.
-
-I'm also drawn to infrastructure for its own sake — I run a **self-hosted NAS**, a **Raspberry Pi home automation** setup, and regularly tinker with networking, containers, DNS, and automation. Reliable system design is something I find genuinely interesting, not just professionally useful.
+I like fast-moving problems, systems that actually scale, and teams where engineers have real ownership over what they ship.
 
 ---
 
