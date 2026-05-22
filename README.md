@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-sudheeshshetty.in-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://sudheeshshetty.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sudheeshshetty-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudheeshshetty)
-[![Medium](https://img.shields.io/badge/Medium-@sudheeshshetty-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sudheeshshetty)
+[![Medium](https://img.shields.io/badge/Medium-sudheeshshetty-12100E?style=flat&logo=medium&logoColor=white&logoWidth=20)](https://medium.com/@sudheeshshetty)
 [![Email](https://img.shields.io/badge/Email-sudheeshshetty@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sudheeshshetty@gmail.com)
 
 </div>
@@ -15,11 +15,13 @@
 
 ## About
 
-I design and deliver scalable **full-stack and cloud-native systems** — from React dashboards and GraphQL BFFs to serverless orchestration and distributed data pipelines. 11+ years shipping production software at Walmart, Diligent, AMD, and more.
+I'm a Full-Stack Engineer with 11+ years of experience building scalable platforms, internal tools, and high-impact products — across frontend, backend, and infrastructure layers.
 
-- 🏅 **AWS Certified** (active) — architecture and operations at scale
-- 🔍 Open to **Senior / Staff Engineer** roles with broader architectural ownership
-- ✍️ I write about what I learn on [Medium](https://medium.com/@sudheeshshetty)
+What drives me most is end-to-end ownership: taking a problem from architecture through to production rather than working within a single isolated layer. At Walmart, that means shipping large-scale internal platforms — feed transformation systems, schema management, marketing tooling, and data workflows that quietly power how multiple teams operate. Before that, I built custom Terraform providers and serverless infrastructure frameworks at Diligent, and a full-stack chip-testing dashboard for AMD as a solo contractor.
+
+Outside of work, I keep building. [WorkerHub](https://workerhubhq.com) is my current weekend project — a service marketplace I'm designing from scratch with NestJS, PostgreSQL, React Native, and AWS, handling everything from auth and booking workflows to mobile integration and infra planning.
+
+I'm also drawn to infrastructure beyond app development. I run a self-hosted NAS, a Raspberry Pi home automation setup, and regularly tinker with networking, containers, DNS routing, and automation — mostly because I find reliable system design genuinely interesting, not just professionally useful.
 
 ---
 
@@ -116,47 +118,9 @@ I design and deliver scalable **full-stack and cloud-native systems** — from R
 
 ---
 
-## Experience
-
-| Period | Role | Company |
-|---|---|---|
-| Dec 2024 – Present | Senior Software Engineer | **Walmart Global Tech** · Bangalore |
-| Nov 2021 – Dec 2024 | Senior Software Engineer | **Diligent Corporation** · Bangalore |
-| Dec 2019 – Oct 2021 | Senior Software Engineer | **Mirafra / AMD** · Bangalore |
-| Dec 2018 – Dec 2019 | CTO & Lead Engineer | **The Web People** · Puttur |
-| Apr 2018 – Dec 2018 | Senior Full Stack Developer | **Up Your Game** · Bangalore |
-| Nov 2014 – Apr 2018 | Software Engineer → Senior Engineer | **Persistent Systems** · Pune & Bangalore |
-
-### Selected highlights
-
-**Walmart Global Tech** — Designed large-scale self-service marketing platforms; built distributed data pipelines with Spark + Airflow processing millions of partner feed records daily; created a Unified Schema Management Platform for Walmart USA & International teams.
-
-**Diligent Corporation** — Authored custom Terraform providers in Go (HashiCorp SDK); designed an internal infrastructure SDK on AWS CDK; built serverless orchestration workflows for remote provisioning; won **3 consecutive internal hackathons**.
-
-**AMD (via Mirafra)** — Solo contractor; built a full-stack chip test infrastructure dashboard — React + Redux Toolkit frontend, Spring Boot REST APIs on MySQL — from scratch to production.
-
----
-
-## Highlights
-
-- 🏅 **AWS Certified** — active certification in cloud architecture and operations
-- 🥇 **3× Hackathon Winner** at Diligent Corporation (consecutive internal wins)
-- 🏆 **Multiple performance awards** at Persistent Systems for consistent delivery impact
-- 🏠 **Home Automation** — Raspberry Pi system controlling smart switches, lighting, and sensors with a custom web dashboard
-- 🖥️ **Home Lab / NAS** — Self-hosted TrueNAS for centralised backups and infrastructure experimentation
-- ✍️ **Technical Writing** on [Medium](https://medium.com/@sudheeshshetty)
-
----
-
-## Education
-
-**B.E. in Computer Science** — Vivekananda College of Engineering & Technology (VTU) · 2010–2014
-
----
-
 <div align="center">
 
-*Building systems that scale — open to Senior / Staff opportunities*
+*Building systems that scale.*
 
 [![Website](https://img.shields.io/badge/-sudheeshshetty.in-0f172a?style=for-the-badge)](https://sudheeshshetty.in)
 [![Email](https://img.shields.io/badge/-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudheeshshetty@gmail.com)
