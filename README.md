@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/Website-sudheeshshetty.in-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://sudheeshshetty.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sudheeshshetty-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudheeshshetty)
-[![Medium](https://img.shields.io/badge/Medium-sudheeshshetty-12100E?style=flat&logo=medium&logoColor=white&logoWidth=20)](https://medium.com/@sudheeshshetty)
 [![Email](https://img.shields.io/badge/Email-sudheeshshetty@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sudheeshshetty@gmail.com)
 
 </div>
